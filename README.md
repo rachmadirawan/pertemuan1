@@ -1,2 +1,2 @@
 # pertemuan1
-html heading
+belajar heading HTML
